@@ -1,0 +1,16 @@
+/* Below css is for login, signup, rest password forms container */
+.form-container {
+  height: 85%;
+  width: 60%;
+  top: 10%;
+  left: 20%;
+  position: fixed;
+  background-color: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(5px);
+  z-index: 10;
+  border-radius: 20px;
+}
+.header {
+  background-color: #2e59e7;
+  height: "25px";
+}

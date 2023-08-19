@@ -1,0 +1,16 @@
+/* Below css is for terminal container */
+.terminal-container {
+  height: 75%;
+  width: 60%;
+  top: 10%;
+  left: 20%;
+  position: fixed;
+  background-color: rgb(2, 0, 0);
+
+  z-index: 10;
+  border-radius: 20px;
+}
+.terminal-head {
+  background-color: rgb(255, 255, 255);
+  height: 30px;
+}
